@@ -30,8 +30,4 @@ if prompt := st.chat_input("I possess a well of knowledge. What would you like t
     with st.chat_message("assistant"):
         st.markdown(response.text)
 
-#                 )
-#             ),
-#         ],
-#     ),
-#     stream=True)
+
